@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355249530380",
+    "project_id": "smishingdetectionapp",
+    "storage_bucket": "smishingdetectionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355249530380:android:daff56d13422f061ddb029",
+        "android_client_info": {
+          "package_name": "com.example.smishingdetectionapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355249530380-1m47cnsmfk1qg59ip0tsvupj9i7l8pt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9mNen9d3lZY1Uo2FsfB5mAxxFhXY7nFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355249530380-1m47cnsmfk1qg59ip0tsvupj9i7l8pt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
